@@ -36,7 +36,7 @@ CREATE TABLE `admin_info` (
 --
 
 INSERT INTO `admin_info` (`UserName`, `Password`) VALUES
-('Admin', 'asdf'),
+('Admin', 'admin'),
 ('root', 'root');
 
 -- --------------------------------------------------------
